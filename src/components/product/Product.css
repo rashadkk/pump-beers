@@ -1,0 +1,13 @@
+.product-card {
+    max-height: 250px;
+}
+.favorite-icon{
+    position: absolute;
+    right: 1.5em;
+    top: 1.5em;
+    cursor: pointer;
+}
+.description-text{
+    overflow: hidden;
+    height: 147px;
+}
